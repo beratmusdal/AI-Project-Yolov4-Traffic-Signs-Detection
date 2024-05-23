@@ -1,6 +1,4 @@
-Tabii, işte bir GitHub README örneği:
 
----
 
 
 
