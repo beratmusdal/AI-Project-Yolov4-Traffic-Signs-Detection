@@ -1,0 +1,5 @@
+class = 3
+train = egitim_data/train.txt
+valid = egitim_data/test.txt
+names = egitim_data/classes.names
+backup=backup
